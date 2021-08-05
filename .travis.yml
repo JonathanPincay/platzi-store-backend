@@ -20,6 +20,7 @@ notifications:
     recipients:
       - jonapincay97@gmail.com
       - jonapincay99@gmail.com
+      - e1314504679@live.uleam.edu.ec
     on_success: always
     on_failure: always
 
